@@ -1,9 +1,11 @@
 {
   "scripts": {
-    "dev": "parcel demo02/index.html",
-    "build": "parcel build demo02/index.html"
+    "dev": "parcel demo03/index.html",
+    "build": "parcel build demo03/index.html"
   },
   "dependencies": {
+    "dat.gui": "^0.7.9",
+    "gsap": "^3.11.3",
     "parcel-bundler": "^1.12.5",
     "three": "^0.145.0"
   }
