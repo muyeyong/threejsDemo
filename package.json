@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "dev": "parcel demo03/index.html",
+    "dev": "parcel demo04/index.html",
     "build": "parcel build demo03/index.html"
   },
   "dependencies": {
